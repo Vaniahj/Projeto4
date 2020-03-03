@@ -21,20 +21,23 @@ h1{
     body{
         background-color: black;
     }           
-    #BotaoLogin {
+    #Botao {
+        font: bold 50px; 
+        padding: 20px,20px;
         position: absolute;
-        left: 250px;
+        left: 300px;
         top: 1200px;
     }
     #caixa1 {
-        font-size: 100px;
+        font:bold 16px/50px sans-serif;
         position: absolute;
         left: 350px;
         top: 750px;
     }
     #caixa2 {
-        font-size: 50px;
+        
         position: absolute;
         left: 350px;
         top: 960px;
     }
+
